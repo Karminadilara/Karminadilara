@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karminadilara
 - 👀 I’m interested in C#, SQL,HTML,CSS,JAVASCRIPT 
-- 🌱 I’m currently learning C# and SQL
+- 🌱 I’m currently working on PLSQL
 
 <!---
 Karminadilara/Karminadilara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
